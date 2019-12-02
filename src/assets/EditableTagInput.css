@@ -1,0 +1,36 @@
+
+.selectable-component{
+    position:relative;
+    width:500px;
+    height:25px;
+    border:0;
+    padding:0;
+    margin:0;
+}
+
+
+.selectable-select{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:500px;
+    height:25px;
+    line-height:20px;
+    margin:0;
+    padding:0;
+}
+
+.selectable-input{
+    position:absolute;
+    top:50px;
+    left:0px;
+    width:450px;
+    height:20px;
+    border:1px solid #556;
+}
+
+.tag-item{
+    position:absolute;
+    border: 1px solid  rgb(48, 121, 182);
+    border-radius: 50%;
+}
